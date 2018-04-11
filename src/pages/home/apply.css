@@ -1,0 +1,27 @@
+.apply-container {
+  font-size: 13px;
+  background: rosybrown;
+  min-height: 600px;
+  padding: 10px 60px;
+  .apply-header {
+    box-sizing: border-box;
+    height: 50px;
+    padding: 10px 60px;
+    line-height: 30px;
+    font-size: 20px;
+    background-color: #f4f4f6;
+    font-weight: bold;
+  }
+  .apply-wrapper {
+    width: 800px;
+    overflow: scroll;
+  }
+  .apply-iframe {
+    width: 1250px;
+    height: 800px;
+    border: 0;
+  }
+  .apply-title {
+    margin:30px;
+  }
+}
