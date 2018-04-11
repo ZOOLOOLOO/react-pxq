@@ -20,10 +20,13 @@
         border: none;
         font-size: 30px;
       }
-      ::-webkit-input-placeholder{ 
-        color: #ccc; 
+      ::-webkit-input-placeholder{
+        color: #ccc;
       }
     }
+  }
+  .home-title{
+    margin: 20px;
   }
   .common-select-btn{
     background-color: #fff;
